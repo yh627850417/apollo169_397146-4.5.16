@@ -1,0 +1,7 @@
+import cn.hutool.http.useragent.UserAgent;
+public class FunctionUse7543 {
+public void funcUse() {
+UserAgent useragent = new UserAgent();
+useragent.getEngineVersion();
+}
+}
